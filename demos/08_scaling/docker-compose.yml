@@ -1,0 +1,9 @@
+# Optional: the full queue stack, for the curious. NOT needed in the lecture.
+#   docker compose up redis          # just the broker
+#   celery -A tasks worker --loglevel=info --concurrency=2
+#   uvicorn api:app --port 8001
+services:
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
