@@ -1,6 +1,10 @@
-# teach-llm
+<p align="center">
+  <img src="assets/teach-llm-mark.png" alt="Open book with connected learning nodes mark" width="200" />
+</p>
 
-An interactive lecture deck and Python demos that introduce large language models, Pydantic AI, and FastAPI.
+<h1 align="center">teach-llm</h1>
+
+<p align="center">An interactive lecture deck and Python demos that introduce large language models, Pydantic AI, and FastAPI.</p>
 
 ## Start with the deck
 
